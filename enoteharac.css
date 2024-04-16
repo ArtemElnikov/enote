@@ -1,0 +1,44 @@
+.info {
+    margin-left: 10%;
+    max-width: 700px;
+}
+
+.head {
+    top: 50%;
+    left: 50%;
+    max-width: 100%;
+}
+
+.headtext {
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.install {
+    margin-top: 200px;
+    text-align: center;
+}
+
+.headinstall {
+    margin-bottom: 100px;
+}
+
+img {
+    margin-bottom: 100px;
+    margin-top: 50px;
+    max-width: 600px;
+}
+
+h3 {
+    background-color: rgb(18, 189, 189);
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+a.active, /* активная/посещенная ссылка */
+a.hover,  /* при наведении */
+a {
+  text-decoration: none;
+  color: #eeeeee;
+}
