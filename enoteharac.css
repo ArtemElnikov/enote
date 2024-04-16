@@ -33,7 +33,7 @@ h3 {
     background-color: rgb(18, 189, 189);
     margin-left: auto;
     margin-right: auto;
-    max-width: 100%;
+    max-width: 700px;
 }
 
 a.active, /* активная/посещенная ссылка */
